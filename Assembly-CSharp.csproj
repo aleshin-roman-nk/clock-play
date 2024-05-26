@@ -85,6 +85,7 @@
     <Compile Include="Assets\TouchScript\Scripts\Gestures\TransformGestures\TransformGesture.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Utils\TimedSequence.cs" />
+    <Compile Include="Assets\PleebieJeebies\Scripts\LightManager.cs" />
     <Compile Include="Assets\TouchScript\Scripts\InputSources\InputHandlers\WindowsPointerHandlers.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Layers\StandardLayer.cs" />
     <Compile Include="Assets\TouchScript\Examples\Photos\Scripts\SetColor.cs" />
@@ -98,6 +99,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
     <Compile Include="Assets\TouchScript\Examples\_misc\Scripts\ShowMe.cs" />
+    <Compile Include="Assets\script\headApproval.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
     <Compile Include="Assets\TouchScript\Examples\_misc\Scripts\KillMe.cs" />
     <Compile Include="Assets\TouchScript\Scripts\InputSources\StandardInput.cs" />
@@ -115,6 +117,7 @@
     <Compile Include="Assets\TouchScript\Scripts\Gestures\TransformGestures\Base\OnePointTrasformGestureBase.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Pointers\Pointer.cs" />
+    <Compile Include="Assets\script\littleQuest.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Core\LayerManagerInstance.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Behaviors\Cursors\UI\GradientTexture.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
@@ -160,6 +163,7 @@
     <Compile Include="Assets\TouchScript\Scripts\InputSources\InputHandlers\MouseHandler.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Utils\Geom\TwoD.cs" />
+    <Compile Include="Assets\PleebieJeebies\Scripts\LightPreset.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Layers\ProjectionParams.cs" />
     <Compile Include="Assets\TouchScript\Examples\Cube\Scripts\Init.cs" />
@@ -204,7 +208,9 @@
     <Compile Include="Assets\TouchScript\Scripts\Devices\Display\GenericDisplayDevice.cs" />
     <Compile Include="Assets\TouchScript\Examples\Portal\Scripts\Spawner.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Debugging\Filters\IPointerDataFilter.cs" />
+    <Compile Include="Assets\script\KillMePrt.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Layers\ILayerDelegate.cs" />
+    <Compile Include="Assets\script\clockController12.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Utils\BinaryUtils.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Hit\HitTest.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Core\DebuggableMonoBehaviour.cs" />
