@@ -271,6 +271,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   text: {fileID: 4651165918753760474}
   clockController12: {fileID: 0}
+  clickEffect: {fileID: 9077379425366206944, guid: f7fe50d0804d23a44b30a0f8d4f31475, type: 3}
 --- !u!114 &8419587584940895354
 MonoBehaviour:
   m_ObjectHideFlags: 0

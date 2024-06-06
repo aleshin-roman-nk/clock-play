@@ -1,0 +1,19 @@
+{
+    "options": [
+        {
+            "displayTitle": "Main",
+            "multiSelectionEnabled": false,
+            "valueType": "number",
+            "values": [
+                {
+                    "id": 1,
+                    "title": "Play time",
+                    "value": "100"
+                }
+            ],
+            "selected": [
+                0
+            ]
+        }
+    ]
+}

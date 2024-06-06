@@ -62,8 +62,10 @@
   <ItemGroup>
     <Compile Include="Assets\TouchScript\Scripts\Devices\Display\DisplayDevice.cs" />
     <Compile Include="Assets\TouchScript\Scripts\LayerManager.cs" />
+    <Compile Include="Assets\script\gamePlayTimer.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Pointers\PointerFactory.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Gestures\FlickGesture.cs" />
+    <Compile Include="Assets\JMO Assets\Cartoon FX (legacy)\Scripts\CFX_AutoRotate.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Layers\UI\TouchScriptInputModule.cs" />
     <Compile Include="Assets\TouchScript\Examples\Colors\Scripts\Circle.cs" />
     <Compile Include="Assets\TouchScript\Examples\_misc\Scripts\Runner.cs" />
@@ -72,22 +74,28 @@
     <Compile Include="Assets\TouchScript\Scripts\Core\TouchManagerInstance.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Utils\Platform\WindowsUtils.cs" />
+    <Compile Include="Assets\JMO Assets\Cartoon FX (legacy)\Demo\Assets\CFX_Demo_RandomDirectionTranslate.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
     <Compile Include="Assets\TouchScript\Modules\TUIO\Scripts\InputSources\TuioInput.cs" />
+    <Compile Include="Assets\something\DamageScreen.cs" />
     <Compile Include="Assets\TouchScript\Scripts\GestureManager.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Utils\TransformUtils.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
+    <Compile Include="Assets\script\restartPanelController.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Debugging\GL\GLDebug.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Behaviors\Cursors\PointerCursor.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
+    <Compile Include="Assets\JMO Assets\Cartoon FX (legacy)\Scripts\CFX_LightIntensityFade.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Gestures\TransformGestures\TransformGesture.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Utils\TimedSequence.cs" />
     <Compile Include="Assets\PleebieJeebies\Scripts\LightManager.cs" />
     <Compile Include="Assets\TouchScript\Scripts\InputSources\InputHandlers\WindowsPointerHandlers.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Layers\StandardLayer.cs" />
+    <Compile Include="Assets\script\randomListPlayer.cs" />
+    <Compile Include="Assets\script\playTimer.cs" />
     <Compile Include="Assets\TouchScript\Examples\Photos\Scripts\SetColor.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Gestures\TransformGestures\Clustered\ClusteredPinnedTransformGesture.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
@@ -95,6 +103,7 @@
     <Compile Include="Assets\TouchScript\Scripts\Gestures\MetaGesture.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Gestures\TransformGestures\PinnedTransformGesture.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Behaviors\Cursors\PenCursor.cs" />
+    <Compile Include="Assets\JMO Assets\Cartoon FX (legacy)\Demo\Assets\CFX_Demo_New.cs" />
     <Compile Include="Assets\TouchScript\Examples\Checkers\Scripts\Exclusive.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
@@ -106,6 +115,7 @@
     <Compile Include="Assets\TouchScript\Scripts\Gestures\TapGesture.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Debugging\Loggers\IPointerLogger.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Devices\Display\IDisplayDevice.cs" />
+    <Compile Include="Assets\script\startGamePanelController.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Gestures\IGestureDelegate.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
@@ -119,8 +129,10 @@
     <Compile Include="Assets\TouchScript\Scripts\Pointers\Pointer.cs" />
     <Compile Include="Assets\script\littleQuest.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Core\LayerManagerInstance.cs" />
+    <Compile Include="Assets\JMO Assets\Cartoon FX (legacy)\Scripts\CFX_LightFlicker.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Behaviors\Cursors\UI\GradientTexture.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
+    <Compile Include="Assets\JMO Assets\Cartoon FX (legacy)\Demo\Assets\CFX_Demo_RandomDir.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
     <Compile Include="Assets\TouchScript\Examples\RawInput\Scripts\Spawner.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Hit\Untouchable.cs" />
@@ -130,6 +142,7 @@
     <Compile Include="Assets\TouchScript\Scripts\ITouchManager.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Utils\EventHandlerExtensions.cs" />
+    <Compile Include="Assets\script\gameSettings.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Debugging\TouchScriptDebugger.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Gestures\LongPressGesture.cs" />
@@ -142,6 +155,7 @@
     <Compile Include="Assets\TouchScript\Examples\Portal\Scripts\Planet.cs" />
     <Compile Include="Assets\TouchScript\Scripts\InputSources\ICoordinatesRemapper.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
+    <Compile Include="Assets\script\randomGameObjectPlayer.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Pointers\PenPointer.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Clusters\Clusters2D.cs" />
     <Compile Include="Assets\TouchScript\Scripts\IDebuggable.cs" />
@@ -155,11 +169,13 @@
     <Compile Include="Assets\TouchScript\Scripts\Behaviors\Cursors\UI\TextureSwitch.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Pointers\MousePointer.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Pointers\FakePointer.cs" />
+    <Compile Include="Assets\script\translateGesturePress.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Pointers\ObjectPointer.cs" />
     <Compile Include="Assets\TouchScript\Examples\Multiuser\Scripts\Logo.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Layers\TouchLayer.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Gestures\Gesture.cs" />
+    <Compile Include="Assets\JMO Assets\Cartoon FX (legacy)\Demo\Assets\CFX_Demo_RotateCamera.cs" />
     <Compile Include="Assets\TouchScript\Scripts\InputSources\InputHandlers\MouseHandler.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Utils\Geom\TwoD.cs" />
@@ -177,10 +193,12 @@
     <Compile Include="Assets\TouchScript\Scripts\Utils\Geom\ProjectionUtils.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Layers\FullscreenLayer.cs" />
     <Compile Include="Assets\TouchScript\Scripts\ILayerManager.cs" />
+    <Compile Include="Assets\JMO Assets\Cartoon FX (legacy)\Scripts\CFX_AutoDestructShuriken.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Debugging\Filters\PointerLogFilter.cs" />
     <Compile Include="Assets\TouchScript\Examples\_misc\Scripts\Checker.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Utils\Attributes\NullToggleAttribute.cs" />
+    <Compile Include="Assets\script\AnimationCompleteListener.cs" />
     <Compile Include="Assets\TouchScript\Examples\Cube\Scripts\CustomPointerProxy.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Hit\RaycastHitUI.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Gestures\TransformGestures\Clustered\ClusteredScreenTransformGesture.cs" />
@@ -206,6 +224,7 @@
     <Compile Include="Assets\TouchScript\Examples\_misc\Scripts\ExamplesList.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Utils\PointerUtils.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Devices\Display\GenericDisplayDevice.cs" />
+    <Compile Include="Assets\JMO Assets\Cartoon FX (legacy)\Demo\Assets\CFX_Demo_Translate.cs" />
     <Compile Include="Assets\TouchScript\Examples\Portal\Scripts\Spawner.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Debugging\Filters\IPointerDataFilter.cs" />
     <Compile Include="Assets\script\KillMePrt.cs" />
@@ -218,17 +237,23 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
     <Compile Include="Assets\TouchScript\Examples\Cube\Scripts\LayerDelegate.cs" />
     <Compile Include="Assets\TouchScript\Scripts\Gestures\TransformGestures\Base\TransformGestureBase.cs" />
+    <Compile Include="Assets\JMO Assets\Cartoon FX (legacy)\Demo\Assets\CFX_AutoStopLoopedEffect.cs" />
     <Compile Include="Assets\TouchScript\Examples\Colors\Scripts\Colors.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\JMO Assets\Cartoon FX (legacy)\Shaders\CFX3 Multiply Color.shader" />
     <None Include="Assets\TouchScript\Modules\TUIO\Libraries\OSCsharp.dll" />
+    <None Include="Assets\___www.unityassetcollection.com___.txt" />
     <None Include="Assets\TouchScript\license.txt" />
     <None Include="Assets\TouchScript\Plugins\WindowsTouch\WindowsTouch.dll" />
+    <None Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR_SETTINGS.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\JMO Assets\Cartoon FX (legacy)\CartoonFX Free.txt" />
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Oswald-Bold - OFL.txt" />
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
+    <None Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TouchScript\Examples\_misc\Shaders\BorderDiffuse.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
@@ -239,18 +264,23 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\JMO Assets\Cartoon FX Remaster\Readme Cartoon FX Remaster FREE.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\TouchScript\Modules\TUIO\Libraries\TUIOsharp.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Prefabs\Texts\_Make your own text effect.txt" />
+    <None Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR_PASSES.cginc" />
     <None Include="Assets\TouchScript\Shaders\Cursor.shader" />
     <None Include="Assets\TouchScript\Shaders\DebugMultiplyDepthTest.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\JMO Assets\Cartoon FX (legacy)\Shaders\CFXM_MobileParticleAdd_Alpha8.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Shaders\CFXR_URP.cginc" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
     <None Include="Assets\TouchScript\Plugins\WindowsTouch\x64\WindowsTouch.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
@@ -1189,6 +1219,30 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="ToonyColorsPro.Demo.Editor.csproj">
+      <Project>{639B6125-06B0-8808-4784-A4B420674C45}</Project>
+      <Name>ToonyColorsPro.Demo.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="CFXRRuntime.csproj">
+      <Project>{96FAE679-F3F7-DF58-81CE-2AC811146974}</Project>
+      <Name>CFXRRuntime</Name>
+    </ProjectReference>
+    <ProjectReference Include="CFXR.WelcomeScreen.csproj">
+      <Project>{F566A762-5B20-EE0B-5635-451667AE2E91}</Project>
+      <Name>CFXR.WelcomeScreen</Name>
+    </ProjectReference>
+    <ProjectReference Include="CFXREditor.csproj">
+      <Project>{C8AF5194-4293-5067-5C0E-EB081ECB509E}</Project>
+      <Name>CFXREditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="CFXRDemo.csproj">
+      <Project>{1D3825E4-78CE-A85F-FF60-7ECEED484B9B}</Project>
+      <Name>CFXRDemo</Name>
+    </ProjectReference>
+    <ProjectReference Include="KinoBloom.Runtime.csproj">
+      <Project>{23FC181B-4963-E905-57D3-B5821ACDFF15}</Project>
+      <Name>KinoBloom.Runtime</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

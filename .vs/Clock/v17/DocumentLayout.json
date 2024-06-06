@@ -1,86 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\prg\\unitys\\Clock\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B44C7ACD-83FE-451B-0A9D-FD9FDC3147A4}|Assembly-CSharp.csproj|d:\\prg\\unitys\\clock\\assets\\script\\clockcontroller12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B44C7ACD-83FE-451B-0A9D-FD9FDC3147A4}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\clockcontroller12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44C7ACD-83FE-451B-0A9D-FD9FDC3147A4}|Assembly-CSharp.csproj|d:\\prg\\unitys\\clock\\assets\\script\\headapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B44C7ACD-83FE-451B-0A9D-FD9FDC3147A4}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\headapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44C7ACD-83FE-451B-0A9D-FD9FDC3147A4}|Assembly-CSharp.csproj|D:\\prg\\unitys\\Clock\\assets\\pleebiejeebies\\scripts\\lightmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B44C7ACD-83FE-451B-0A9D-FD9FDC3147A4}|Assembly-CSharp.csproj|solutionrelative:assets\\pleebiejeebies\\scripts\\lightmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44C7ACD-83FE-451B-0A9D-FD9FDC3147A4}|Assembly-CSharp.csproj|D:\\prg\\unitys\\Clock\\assets\\script\\littlequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B44C7ACD-83FE-451B-0A9D-FD9FDC3147A4}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\littlequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "headApproval.cs",
-              "DocumentMoniker": "D:\\prg\\unitys\\Clock\\Assets\\script\\headApproval.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\headApproval.cs",
-              "ToolTip": "D:\\prg\\unitys\\Clock\\Assets\\script\\headApproval.cs",
-              "RelativeToolTip": "Assets\\script\\headApproval.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T06:09:01.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LightManager.cs",
-              "DocumentMoniker": "D:\\prg\\unitys\\Clock\\Assets\\PleebieJeebies\\Scripts\\LightManager.cs",
-              "RelativeDocumentMoniker": "Assets\\PleebieJeebies\\Scripts\\LightManager.cs",
-              "ToolTip": "D:\\prg\\unitys\\Clock\\Assets\\PleebieJeebies\\Scripts\\LightManager.cs",
-              "RelativeToolTip": "Assets\\PleebieJeebies\\Scripts\\LightManager.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAwwFwAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T05:09:55.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "littleQuest.cs",
-              "DocumentMoniker": "D:\\prg\\unitys\\Clock\\Assets\\script\\littleQuest.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\littleQuest.cs",
-              "ToolTip": "D:\\prg\\unitys\\Clock\\Assets\\script\\littleQuest.cs",
-              "RelativeToolTip": "Assets\\script\\littleQuest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:14:47.841Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "clockController12.cs",
-              "DocumentMoniker": "D:\\prg\\unitys\\Clock\\Assets\\script\\clockController12.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\clockController12.cs",
-              "ToolTip": "D:\\prg\\unitys\\Clock\\Assets\\script\\clockController12.cs",
-              "RelativeToolTip": "Assets\\script\\clockController12.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAA9wDEAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T17:27:48.816Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

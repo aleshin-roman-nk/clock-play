@@ -70,9 +70,11 @@
     <Compile Include="Assets\TouchScript\Editor\Debugging\PointerDebuggerWindow.cs" />
     <Compile Include="Assets\TouchScript\Editor\Gestures\TransformGestures\ScreenTransformGestureEditor.cs" />
     <Compile Include="Assets\TouchScript\Editor\Gestures\GestureEditor.cs" />
+    <Compile Include="Assets\SpeechGenerationForNPCs\Editor\VoiceSynthesis\SavWav.cs" />
     <Compile Include="Assets\TouchScript\Editor\Gestures\ReleaseGestureEditor.cs" />
     <Compile Include="Assets\TouchScript\Editor\Gestures\TransformGestures\Base\TransformGestureBaseEditor.cs" />
     <Compile Include="Assets\TouchScript\Editor\Gestures\TransformGestures\PinnedTransformGestureEditor.cs" />
+    <Compile Include="Assets\SpeechGenerationForNPCs\Editor\VoiceSynthesis\SpeechGeneration_Editor.cs" />
     <Compile Include="Assets\TouchScript\Editor\EditorResources.cs" />
     <Compile Include="Assets\TouchScript\Editor\EditorUI\GUIElements.cs" />
     <Compile Include="Assets\TouchScript\Editor\Gestures\MetaGestureEditor.cs" />
@@ -1092,6 +1094,30 @@
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{B44C7ACD-83FE-451B-0A9D-FD9FDC3147A4}</Project>
       <Name>Assembly-CSharp</Name>
+    </ProjectReference>
+    <ProjectReference Include="ToonyColorsPro.Demo.Editor.csproj">
+      <Project>{639B6125-06B0-8808-4784-A4B420674C45}</Project>
+      <Name>ToonyColorsPro.Demo.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="CFXRRuntime.csproj">
+      <Project>{96FAE679-F3F7-DF58-81CE-2AC811146974}</Project>
+      <Name>CFXRRuntime</Name>
+    </ProjectReference>
+    <ProjectReference Include="CFXR.WelcomeScreen.csproj">
+      <Project>{F566A762-5B20-EE0B-5635-451667AE2E91}</Project>
+      <Name>CFXR.WelcomeScreen</Name>
+    </ProjectReference>
+    <ProjectReference Include="CFXREditor.csproj">
+      <Project>{C8AF5194-4293-5067-5C0E-EB081ECB509E}</Project>
+      <Name>CFXREditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="CFXRDemo.csproj">
+      <Project>{1D3825E4-78CE-A85F-FF60-7ECEED484B9B}</Project>
+      <Name>CFXRDemo</Name>
+    </ProjectReference>
+    <ProjectReference Include="KinoBloom.Runtime.csproj">
+      <Project>{23FC181B-4963-E905-57D3-B5821ACDFF15}</Project>
+      <Name>KinoBloom.Runtime</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
